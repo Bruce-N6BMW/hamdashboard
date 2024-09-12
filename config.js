@@ -79,8 +79,7 @@ const aIMG = [
   ],
   [
     "LIGHTNING",
-    "https://map.blitzortung.org/#4.37/36.21/-95.99",
-    // "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
+    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
   ],
   [
     "LIGHTNING LOCAL",
