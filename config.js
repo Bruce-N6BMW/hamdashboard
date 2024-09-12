@@ -74,8 +74,8 @@ const aIMG = [
     "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/can/EXTENT3/GOES16-CAN-EXTENT3-1125x560.gif",
   ],
   [
-    "SATELLITE CGL",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/cgl/EXTENT3/GOES16-CGL-EXTENT3-600x600.gif",
+    "SATELLITE PSW",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/psw/EXTENT3/GOES16-PSW-EXTENT3-600x600.gif",
   ],
   [
     "LIGHTNING",
